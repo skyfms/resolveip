@@ -1,4 +1,4 @@
 # resolveip
 
-Quick and dirty replacement for deprecated `resolveip` command of Percona Toolkit.
+Quick and dirty replacement for deprecated `resolveip` command of Percona Server for MySQL.
 
